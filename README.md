@@ -1,5 +1,5 @@
 # Hi, I'm Alex Gregory
-I am a data scientist and PhD candidate in archaeology. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
+I am a quantitative analyst and PhD candidate in archaeology. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
 
 ## I’m currently working on
 - Bayesian models that link prehistoric human settlement, population size, and technological change
